@@ -36,6 +36,12 @@ and a nonlinear part,
 
 $\frac{\delta A_N}{\delta z} = i \gamma|A|^2A = \hat{N} A$
 
+The linear and nonlinear parts have analytical solutions, but the NLSE containing both does not have a general analytical solution. However, by computing the solution in small steps, and treating the linear and nonlinear steps separately, we can determine a numerical solution.
+
+The general algorithm is as follows: 
+
+
+
 
 ## The Results 
 
