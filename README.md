@@ -39,9 +39,11 @@ $\frac{\delta A_N}{\delta z} = i \gamma|A|^2A = \hat{N} A$
 The linear and nonlinear parts have analytical solutions, but the NLSE containing both does not have a general analytical solution. However, by computing the solution in small steps, and treating the linear and nonlinear steps separately, we can determine a numerical solution.
 
 The general algorithm is as follows: 
-
-
-
+1. Take a small step forward along $z$ and solve the nonlinear portion in the time domain
+2. Use the Fourier transform to switch to the frequency domain
+3. Take a small step forward in $z$ and solve the linear portion in the frequency domain
+4. Use the inverse Fourier transform to switch back to the time domain
+5. Repeat
 
 ## The Results 
 
