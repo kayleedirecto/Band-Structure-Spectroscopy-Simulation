@@ -26,7 +26,7 @@ We use the nonlinear Schrödinger equation (NLSE) to model the propagation of li
 
 The nonlinear Schrödinger equation can be written as 
 
-$\frac{\delta A}{\delta z} = - \frac{i \Beta_2}{2} \frac{\delta^2 A}{\delta t^2}$ 
+$\frac{\delta A}{\delta z} = - \frac{i \beta_2}{2} \frac{\delta^2 A}{\delta t^2}$ 
 
 
 ## The Results 
