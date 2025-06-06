@@ -53,6 +53,8 @@ Dutt, A., Minkov, M., Lin, Q. et al. Experimental band structure spectroscopy al
 
 Yuan, Luqi & Lin, Qian & Xiao, Meng & Fan, Shanhui. (2018). Synthetic dimension in photonics. Optica. 5. 1396-1405. 10.1364/OPTICA.5.001396. 
 
+https://en.wikipedia.org/wiki/Split-step_method
+
 
 
 
