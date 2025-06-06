@@ -40,8 +40,8 @@ The linear and nonlinear parts have analytical solutions, but the NLSE containin
 
 The general algorithm is as follows: 
 1. Take a small step forward along $z$ and solve the nonlinear portion in the time domain
-2. Use the Fourier transform to switch to the frequency domain
-3. Take a small step forward in $z$ and solve the linear portion in the frequency domain
+2. Use the Fourier transform to switch to the spectral domain
+3. Take a small step forward in $z$ and solve the linear portion in the spectral domain
 4. Use the inverse Fourier transform to switch back to the time domain
 5. Repeat
 
