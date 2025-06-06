@@ -46,7 +46,7 @@ The general algorithm is as follows:
 5. Repeat
 
 The main simulation file can be found in BandStructureSpectroscopy.py. \
-InterferometryTools.py is a set of tools used in the main file. 
+InterferometryTools.py is a set of functions used in the main file. 
 
 ## The Results 
 
