@@ -47,6 +47,20 @@ The general algorithm is as follows:
 
 ## The Results 
 
+### Theoretical Band Structure of Nearest Neighbour Coupling (1D Lattice) vs. Simulation 
+
+<img width="880" alt="Screenshot 2025-06-06 at 1 37 07 PM" src="https://github.com/user-attachments/assets/893b5fd1-72f9-4c2b-bc59-1f20c00ba4eb" />
+
+### Experimental Results of Band Structure from Next Nearest Neighbour Coupling vs. Simulation 
+
+<img width="880" alt="Screenshot 2025-06-06 at 1 38 12 PM" src="https://github.com/user-attachments/assets/73b4b461-834a-4a93-b667-2af5e750ab68" />
+
+### Experimental Results of Band Structure from Triangular Coupling vs. Simulation
+
+<img width="880" alt="Screenshot 2025-06-06 at 1 40 19 PM" src="https://github.com/user-attachments/assets/1b730829-4a54-46f5-84e2-3579ee35bbe5" />
+
+We can see that the simulation results match both the theory and experiment of the work by Dutt et al. (2019).
+
 ## The References 
 
 Dutt, A., Minkov, M., Lin, Q. et al. Experimental band structure spectroscopy along a synthetic dimension. Nat Commun 10, 3122 (2019). https://doi.org/10.1038/s41467-019-11117-9
