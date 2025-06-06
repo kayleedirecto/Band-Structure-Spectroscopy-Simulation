@@ -45,6 +45,8 @@ The general algorithm is as follows:
 4. Use the inverse Fourier transform to switch back to the time domain
 5. Repeat
 
+The main simulation file can be found in BandStructureSpectroscopy.py. InterferometryTools.py is a set of tools used in the main file. 
+
 ## The Results 
 
 ### Theoretical Band Structure of Nearest Neighbour Coupling (1D Lattice) vs. Simulation 
