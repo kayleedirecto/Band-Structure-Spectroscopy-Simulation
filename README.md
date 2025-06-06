@@ -22,11 +22,19 @@ The math to determine band structure becomes increasingly difficult for more com
 
 We use the nonlinear Schrödinger equation (NLSE) to model the propagation of light though the optical cable, and numerically solve it using the Split Step Fourier Method (SSFM). 
 
-### SSFM 
+### Split Step Fourier Method  
 
 The nonlinear Schrödinger equation can be written as 
 
 $\frac{\delta A}{\delta z} = - \frac{i \beta_2}{2} \frac{\delta^2 A}{\delta t^2} + i \gamma|A|^2A = [\hat{D} + \hat{N}]A$ 
+
+where $A(t,z)$ is the light pulse at time $t$, position $z$. The equation can be split into a linear part, 
+
+$\frac{\delta A_D}{\delta z} = - \frac{i \beta_2}{2} \frac{\delta^2 A}{\delta t^2} = \hat{D} A$
+
+and a nonlinear part, 
+
+$\frac{\delta A_N}{\delta z} = i \gamma|A|^2A = \hat{N} A$
 
 
 ## The Results 
