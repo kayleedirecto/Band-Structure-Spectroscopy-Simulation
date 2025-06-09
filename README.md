@@ -2,6 +2,14 @@
 
 This was my research during my summer 2024 NSERC USRA! I had the opportunity to learn about the field of photonics and hone my programming skills to simulate a fibre optic experiment. 
 
+## Repository Structure 
+```
+Band-Structure-Spectroscopy-Simulation/
+├── src/              # Core implementation: models, training loops, etc.
+├── LICENSE
+└── README.md         # You're here!
+```
+
 ## The Background 
 
 This work builds off of the research published in 2019 by Avik Dutt et al. 
