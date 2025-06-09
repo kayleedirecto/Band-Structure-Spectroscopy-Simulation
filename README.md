@@ -2,12 +2,12 @@
 
 This was my research during my summer 2024 NSERC USRA! I had the opportunity to learn about the field of photonics and hone my programming skills to simulate a fibre optic experiment. 
 
-## Repository Structure 
+## The Repository Structure 
 ```
 Band-Structure-Spectroscopy-Simulation/
-├── src/              # Core implementation: models, training loops, etc.
-├── LICENSE
-└── README.md         # You're here!
+├── BandStructureSpectroscopy.py              # Main simulation
+├── InterferometryTools.py                    # Functions used in main simulation 
+└── README.md                                 # You're here!
 ```
 
 ## The Background 
